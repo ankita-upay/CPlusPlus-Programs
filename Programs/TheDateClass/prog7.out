@@ -1,0 +1,40 @@
+ 1: defDate: ( January 1, 2000 )
+ 2: date1: ( January 15, 2000 )
+ 3: date2: ( March 15, 2000 )
+ 4: date3: ( July 4, 1776 )
+ 5: finDate: ( May 8, 2000 )
+ 6: finDate: ( May 8, 2002 )
+ 7: date4: ( March 1, 2001 )
+ 8: date5: ( February 29, 2004 )
+ 9: date3: ( August 4, 1776 )
+10: date3: ( April 4, 1777 )
+11: date3: ( February 4, 1978 )
+12: date3: ( April 4, 1777 )
+13: date3: ( December 4, 1776 )
+14: date3: ( January 4, 2000 )
+15: defDate: ( January 1, -1 )
+16: defDate: ( January 1, -2001 )
+17: defDate: ( January 1, -2000 )
+18: defDate: ( January 1, 1 )
+19: datex: ( March 1, 2016 )
+20: datex: ( March 29, 2016 )
+21: datex: ( February 29, 2016 )
+22: datex: ( March 1, 2017 )
+23: date6: ( January 11, 2000 )
+24: date6: ( February 10, 2000 )
+25: date6: ( March 11, 2000 )
+26: date6: ( March 11, 2001 )
+27: date6: ( March 10, 2001 )
+28: date6: ( March 10, 2000 )
+29: date6: ( December 31, 1999 )
+30: from ( January 1, 2000 ) to ( December 31, 2000 ) : 365 days
+31: from ( January 1, 1 ) to ( December 31, 2000 ) : 730484 days
+32: from ( December 31, -1 ) to ( January 1, 1 ) : 1 day
+33: date10: ( November 29, 2738 )
+34: date10: dayIndex = 1000001
+35: date11: ( February 3, -2738 )
+36: date11: dayIndex = -1000000
+37: date10: ( January 4, 2000 )
+38: date10: ( March 15, 2000 )
+39: date12: ( February 29, 1900 ) : not valid date
+40: date13: ( March 15, 0 ) : not valid date
