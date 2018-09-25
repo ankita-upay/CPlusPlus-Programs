@@ -1,0 +1,34 @@
+shift = 0
+key = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+This text is intended for use in the second programming course.
+It covers the material in a traditional CS2 course, as defined
+by the Joint ACM/IEEE-CS computing curricula 2001 report.
+
+shift = 1
+key = "ZYXWVUTSRQPONMLKJIHGFEDCBA"
+
+Hxae hoth ae aphoplol rsb keo ap hxo eoispl vbsubcmmapu iskbeo.
+Ah isnobe hxo mchobacj ap c hbclahaspcj IE2 iskbeo, ce lorapol
+fw hxo Dsaph CIM/AOOO-IE ismvkhapu ikbbaikjc 2001 bovsbh.
+
+shift = -1
+key = "ZYXWVUTSRQPONMLKJIHGFEDCBA"
+
+Fvyc fmrf yc ynfmnjmj pqz icm yn fvm cmgqnj tzqszakkyns gqizcm.
+Yf gqlmzc fvm kafmzyah yn a fzajyfyqnah GC2 gqizcm, ac jmpynmj
+du fvm Bqynf AGK/YMMM-GC gqktifyns gizzygiha 2001 zmtqzf.
+
+shift = 100
+key = "QWERTYUIOPASDFGHJKLZXCVBNM"
+
+Jcyv jlpj yv yrjlrlll isu nvl yr jcl vlwsrl tusougrryro wsnuvl.
+Yj wskluv jcl rgjluyga yr g juglyjysrga WV2 wsnuvl, gv lliyrll
+cf jcl Zsyrj GWR/YLLL-WV wsrtnjyro wnuuywnag 2001 ultsuj.
+
+shift = -100
+key = "QWERTYUIOPASDFGHJKLZXCVBNM"
+
+Rkgd rtxr gd gzrtzttt qac vdt gz rkt dteazt bcawcozzgzw eavcdt.
+Gr eastcd rkt zortcgoi gz o rcotgrgazoi ED2 eavcdt, od ttqgztt
+kn rkt Hagzr OEZ/GTTT-ED eazbvrgzw evccgevio 2001 ctbacr.
