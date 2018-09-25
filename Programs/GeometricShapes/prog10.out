@@ -1,0 +1,126 @@
+Rectangle:
+r1: length = 7.50 : width = 2.50
+perimeter = 20.00
+area = 18.75
+
+r2: length = 0.00 : width = 0.00
+area = 0.00
+
+r2: length = 7.50 : width = 2.50
+perimeter = 20.00
+area = 18.75
+
+==================================================
+
+Circle:
+c1: radius = 2.50
+perimeter = 15.71
+area = 19.63
+
+c2: radius = 5.00
+perimeter = 31.42
+area = 78.54
+
+c1: radius = 7.50
+perimeter = 47.12
+area = 176.71
+
+==================================================
+
+Triangle:
+t1: a = 5.10 : b = 12.20 : c = 13.30
+perimeter = 30.60
+area = 31.11
+
+==================================================
+
+Square:
+s1: length = 2.50
+perimeter = 10.00
+area = 6.25
+
+==================================================
+
+Right Triangle:
+rt1: length = 5.00 : height = 12.00
+perimeter = 30.00
+area = 30.00
+
+==================================================
+
+Equilateral Triangle:
+et1: length = 5.00
+perimeter = 15.00
+area = 10.83
+
+==================================================
+
+Box:
+b1: length = 3.00 : width = 4.00 : height = 5.00
+area = 94.00
+volume = 60.00
+
+==================================================
+
+Cube:
+cu1: length = 2.50
+area = 37.50
+volume = 15.62
+
+==================================================
+
+Cylinder:
+cy1: radius = 2.50 : height = 5.00
+area = 117.81
+volume = 98.17
+
+==================================================
+
+Cone:
+co1: radius = 2.50 : height = 5.00
+area = 63.54
+volume = 32.72
+
+co2: radius = 3.75 : height = 4.25
+area = 110.95
+volume = 62.59
+
+co3: radius = 0.00 : height = 0.00
+area = 0.00
+
+co1: radius = 0.00 : height = 0.00
+area = 0.00
+
+co2: radius = 3.75 : height = 4.25
+area = 110.95
+volume = 62.59
+
+==================================================
+
+Sphere:
+sp1: radius = 2.50
+perimeter = 15.71
+area = 78.54
+volume = 65.45
+
+==================================================
+
+Tetrahedron:
+te1: length = 5.00
+area = 43.30
+volume = 14.73
+
+te2: length = 5.00
+area = 43.30
+volume = 14.73
+
+te3: length = 0.00
+area = 0.00
+
+te1: length = 10.00
+area = 173.21
+volume = 117.85
+
+te3: length = 10.00
+area = 173.21
+volume = 117.85
